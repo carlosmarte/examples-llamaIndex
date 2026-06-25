@@ -1,0 +1,26 @@
+{
+  "name": "react-component-search-ts",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "tsx main.ts",
+    "build": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@babel/parser": "^7.25.0",
+    "@babel/traverse": "^7.25.0",
+    "@babel/types": "^7.25.0",
+    "@llamaindex/anthropic": "^0.3.0",
+    "@llamaindex/openai": "^0.3.0",
+    "dotenv": "^16.4.5",
+    "llamaindex": "^0.9.0",
+    "zod": "^3.23.0"
+  },
+  "devDependencies": {
+    "@types/babel__traverse": "^7.20.0",
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "chatbot-support-ts",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "tsx main.ts",
+    "build": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@llamaindex/anthropic": "^0.3.0",
+    "@llamaindex/openai": "^0.3.0",
+    "@llamaindex/readers": "^2.0.0",
+    "dotenv": "^16.4.5",
+    "llamaindex": "^0.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.0"
+  }
+}

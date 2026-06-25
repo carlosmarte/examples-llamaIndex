@@ -1,0 +1,33 @@
+NORTHWIND OFFICE SUPPLIES
+1842 Cascade Ave, Building 3
+Seattle, WA 98101
+Tax ID: 91-2847362
+
+BILL TO:
+Acme Corp - Accounts Payable
+attn: Sarah Chen
+500 Market St, Floor 12
+San Francisco, CA 94105
+
+Invoice #: INV-2026-04821
+Invoice Date: April 18, 2026
+Due Date: May 18, 2026 (Net 30)
+PO Number: PO-AC-9921
+
+---------------------------------------------------------------
+Description                          Qty    Unit Price   Amount
+---------------------------------------------------------------
+Ergonomic Mesh Office Chair, Black     2       189.00    378.00
+- Promotional discount (-30%)                              -113.40
+Standing Desk Mat, 17x24in             6        24.99    149.94
+Mechanical Keyboard, Tactile Brown     1        134.50    134.50
+Wireless Mouse (refurb)                3        34.95    104.85
+Shipping & Handling                                         15.00
+---------------------------------------------------------------
+
+                                       Subtotal:          668.89
+                                       Tax (8.25%):        55.18
+                                       Total Due:        $724.07
+
+Payment terms: Net 30. Late payment subject to 1.5% monthly service charge.
+Remit payment to: Northwind Office Supplies, ACH routing 121000358, acct 9182734650
